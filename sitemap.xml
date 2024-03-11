@@ -1,3 +1,18 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+<loc>https://agarampowersolution.com/</loc>
+<lastmod>2024-03-11</lastmod>
+</url>
+
+
+</urlset> -->
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -8,8 +23,79 @@
 
 
 <url>
-<loc>https://agarampowersolution.com/</loc>
-<lastmod>2024-03-11</lastmod>
+  <loc>https://agarampowersolution.com/</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/about</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/service</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/project</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/product_street_light</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/product_solar_pump</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/product_solar_heater</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/product_power_plant</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/product_led_name_board</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/career</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/feature</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/quote</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/testimonial</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/contact</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://agarampowersolution.com/doc/Agaram%20power%20solution%20Catalogue.docx</loc>
+  <lastmod>2024-03-11T07:46:23+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
