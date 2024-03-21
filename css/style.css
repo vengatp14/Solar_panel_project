@@ -407,7 +407,36 @@
 }
 
 
-/*** Testimonial ***/
+/*** Testimonial carousel image ***/
+
+#imageCarousel {
+    position: relative;
+    /* height: 100%;  */
+    overflow: hidden; 
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 60px;
+    height: 60px;
+    top: calc(50% - 30px); 
+    background-color: rgba(0, 0, 0, 0.5); 
+    border: none; 
+  }
+  
+  .carousel-control-prev:hover,
+  .carousel-control-next:hover,
+  .carousel-control-prev:focus,
+  .carousel-control-next:focus {
+    /* background-color: rgba(0, 0, 0, 0.8); */
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    font-size: 36px;
+    color: #fff; 
+  }
+
 .testimonial-carousel::before {
     position: absolute;
     content: "";
