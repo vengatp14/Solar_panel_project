@@ -215,6 +215,10 @@
     background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/slides/1.png) center center no-repeat;
     background-size: cover;
 }
+.page-headerIT {
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/IT\ Services\ Cover\ Photo.png) center center no-repeat;
+    background-size: cover;
+}
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: var(--light);
