@@ -112,6 +112,18 @@
     margin-left: 8px;
 }
 
+@media (min-width: 991.98px) and (max-width: 1352px){
+    .navbar .navbar-nav .nav-link {
+        margin-right: 15px;
+        padding: 20px 0;
+        color: var(--dark);
+        font-size: 10px;
+        font-weight: 400;
+        text-transform: none;
+        outline: none;
+    }
+}
+
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link  {
         margin-right: 0;
